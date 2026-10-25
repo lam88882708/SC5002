@@ -34,15 +34,6 @@ A subset of **1,000 samples** was randomly selected for simplicity.
 
 ---
 
-## Requirements
-
-Ensure the following dependencies are installed before running this project:
-
-- Python 3.x
-- Numpy
-- Pandas
-- Matplotlib
-- scikit-learn
 
 Install the dependencies using the following command:
 
