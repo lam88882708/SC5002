@@ -34,8 +34,3 @@ A subset of **1,000 samples** was randomly selected for simplicity.
 
 ---
 
-
-Install the dependencies using the following command:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn
